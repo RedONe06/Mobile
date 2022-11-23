@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193844207082",
+    "project_id": "icook-a3da0",
+    "storage_bucket": "icook-a3da0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193844207082:android:abebd354b065485de76693",
+        "android_client_info": {
+          "package_name": "br.ulbra.appicook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193844207082-pun0nhf386mjvqdc6bcp7v7k6hiuh05r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl1UlQbtEnvFaBzcDHNwIpiNve2h61mU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193844207082-pun0nhf386mjvqdc6bcp7v7k6hiuh05r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

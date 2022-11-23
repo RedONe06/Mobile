@@ -3,13 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/s.lucas/AndroidStudioProjects/AppCalculadora/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1195" />
-        <entry key="..\:/Users/s.lucas/AndroidStudioProjects/AppCalculadora/app/src/main/res/drawable/botao_numero_selecionado.xml" value="0.1" />
-        <entry key="..\:/Users/s.lucas/AndroidStudioProjects/AppCalculadora/app/src/main/res/drawable/shape_numero_normal.xml" value="0.1" />
-        <entry key="..\:/Users/s.lucas/AndroidStudioProjects/AppCalculadora/app/src/main/res/drawable/shape_numero_selecionado.xml" value="0.1" />
-        <entry key="..\:/Users/s.lucas/AndroidStudioProjects/AppCalculadora/app/src/main/res/layout/activity_main.xml" value="0.21145833333333333" />
-        <entry key="..\:/Users/s.lucas/AndroidStudioProjects/AppCalculadora/app/src/main/res/layout/activity_splashactivity.xml" value="0.19739583333333333" />
-        <entry key="..\:/Users/s.lucas/AndroidStudioProjects/AppCalculadora/app/src/main/res/layout/splashactivity.xml" value="0.15859375" />
+        <entry key="..\:/Users/s.lucas/AndroidStudioProjects/AppICook/app/src/main/res/drawable/botao_verde.xml" value="0.1475" />
+        <entry key="..\:/Users/s.lucas/AndroidStudioProjects/AppICook/app/src/main/res/drawable/botao_vermelho.xml" value="0.1475" />
+        <entry key="..\:/Users/s.lucas/AndroidStudioProjects/AppICook/app/src/main/res/drawable/form_login.xml" value="0.1475" />
+        <entry key="..\:/Users/s.lucas/AndroidStudioProjects/AppICook/app/src/main/res/layout/activity_form_cadastro.xml" value="0.22" />
+        <entry key="..\:/Users/s.lucas/AndroidStudioProjects/AppICook/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/s.lucas/AndroidStudioProjects/AppICook/app/src/main/res/layout/activity_main.xml" value="0.1859375" />
+        <entry key="..\:/Users/s.lucas/AndroidStudioProjects/AppICook/app/src/main/res/layout/activity_splash.xml" value="0.2" />
       </map>
     </option>
   </component>
